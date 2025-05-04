@@ -1,6 +1,5 @@
 # 🐚 MiniShell: Custom Subject
 
-**Version:** 0.1 — Infrastructure & Specification Phase  
 **Project Name:** `minishell`  
 **Language:** C
 
